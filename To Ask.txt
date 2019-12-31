@@ -1,0 +1,37 @@
+
+Performance Tab feature is not working 
+
+StringBufferedReader 
+
+1. Do i and J variables in loop start from 0 for a cell
+2. Defined driver in Config and launchapplication in Weblibrary as static
+3. In Test Case how TC are executed as no priority is given
+
+
+Git Credentials:
+
+abhishekd633
+entally2006
+
+
+GIt Desktop 
+
+Phani's Credentials:
+nagaphanidoppalapudi
+npkumard@2019
+
+Jenkins Credentials:
+
+UserID:
+Pwd:
+
+
+
+<plugin>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.1</version>
+            <configuration>
+                <fork>true</fork>
+                <executable>C:\Program Files\Java\jdk1.8.0_231\bin\javac.exe</executable>
+            </configuration>
+        </plugin>
